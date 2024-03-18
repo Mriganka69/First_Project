@@ -7,5 +7,5 @@ def fibonacci(n):
     return fib_seq
 
 
-n = int(input("Enter a number of Fibonacci terms: "))
+n = int(input("Enter a number of Fibonacci terms:  "))
 print(fibonacci(n))
