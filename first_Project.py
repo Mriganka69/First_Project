@@ -1,4 +1,3 @@
-print("Hello World")
 
 def fibonacci(n):
     fib_seq = [0, 1]
@@ -9,3 +8,5 @@ def fibonacci(n):
 
 n = int(input("Enter a number of Fibonacci terms: "))
 print(fibonacci(n))
+
+# jksdjbncsdjkcbnsdjklcnhadjklcnsdllcnsdcd
